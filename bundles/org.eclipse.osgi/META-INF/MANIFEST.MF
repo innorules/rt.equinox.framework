@@ -66,7 +66,7 @@ Export-Package: org.eclipse.core.runtime.adaptor;x-friends:="org.eclipse.core.ru
  org.osgi.service.resolver;version="1.1",
  org.osgi.service.startlevel;version="1.1",
  org.osgi.service.url;version="1.0",
- org.osgi.util.tracker;version="1.5.1"
+ org.osgi.util.tracker;version="1.5.2"
 Export-Service: org.osgi.service.packageadmin.PackageAdmin,
  org.osgi.service.permissionadmin.PermissionAdmin,
  org.osgi.service.startlevel.StartLevel,
